@@ -39,5 +39,3 @@ query AllFolders($condition: FolderCondition, $questionsByFolderIdCondition2: Qu
   }
 }
 ```
-
-
